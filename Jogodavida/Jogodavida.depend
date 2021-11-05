@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1636068462 source:c:\users\biabs\desktop\prog con dist\jogodavida\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
