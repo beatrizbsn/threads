@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1636068762 source:c:\users\biabs\desktop\prog con dist\jogodavidaopenmp\main.c
+	<stdlib.h>
+	<omp.h>
+	<stdio.h>
+	<time.h>
+	<assert.h>
+
